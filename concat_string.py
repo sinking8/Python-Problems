@@ -53,6 +53,47 @@ knowledge
 -1
 knowledgeedge
 
+SAMPLE OUTPUT 2:
+gsking
+-1
+
+SAMPLE INPUT 3:
+un
+3
+limited
+fair
+ntied
+
+SAMPLE OUTPUT 3:
+-1
+-1
+untied
+
+SAMPLE INPUT 4:
+never
+3
+rmind
+rtheless
+neverthesless
+lol
+
+SAMPLE OUTPUT 4:
+nevermind
+nevertheless
+-1
+
+SAMPLE INPUT 5:
+gu
+2
+vi
+vitribute
+
+SAMPLE OUTPUT 5:
+-1
+-1
+-1
+
+
 '''
 
 S = input().strip()
