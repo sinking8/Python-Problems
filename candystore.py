@@ -51,6 +51,54 @@ SAMPLE OUTPUT1:
 1 2
 2 3
 
+SAMPLE INPUT 2:
+2
+10
+3
+5 9 1
+20 2
+10 10
+
+SAMPLE OUTPUT 2:
+2 3
+1 2
+
+SAMPLE INPUT 3:
+1
+10
+2
+9 1
+
+SAMPLE OUTPUT 3:
+1 2
+
+SAMPLE INPUT 4:
+1
+20
+3
+9 8 2
+
+SAMPLE OUTPUT 4:
+1 2
+
+SAMPLE INPUT 5:
+ 3
+50
+4
+20 30 19 30
+40
+2
+10 20
+20
+6
+2 2 4 3 23 30
+
+SAMPLE OUTPUT 5:
+1 2
+1 2
+3 4
+
+
 '''
 T = int(input())
 for _ in range(T):
