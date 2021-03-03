@@ -1,3 +1,3 @@
 # Python-Problems
 
-## Practise Problems questionnare with solution in python
+## Practise Problems questionnare with solutions in python
